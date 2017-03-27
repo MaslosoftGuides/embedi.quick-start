@@ -1,0 +1,6 @@
+{
+    "require": {
+        "maslosoft/embedi": "^1.0",
+        "maslosoft/addendum": "^5.0"
+    }
+}
